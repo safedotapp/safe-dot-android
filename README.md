@@ -27,6 +27,8 @@
     </a>
     
   </p>
+
+  <a href="https://polar.sh/kamaravichow/subscriptions"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/tiers.svg?org=kamaravichow&darkmode"><img alt="Subscription Tiers on Polar" src="https://polar.sh/embed/tiers.svg?org=kamaravichow"></picture></a>
  
 
 ## README
