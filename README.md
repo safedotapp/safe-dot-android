@@ -26,10 +26,7 @@
       <img src="https://img.shields.io/badge/Galaxy%20Store-1.2K-ff69b4?style=for-the-badge"/>
     </a>
     
-  </p>
-
-  <a href="https://polar.sh/kamaravichow/subscriptions"><picture><source media="(prefers-color-scheme: dark)" srcset="https://polar.sh/embed/tiers.svg?org=kamaravichow&darkmode"><img alt="Subscription Tiers on Polar" src="https://polar.sh/embed/tiers.svg?org=kamaravichow"></picture></a>
- 
+  </p> 
 
 ## README
 When any permission is in use, my app checks for the app which is currently running in the foreground. 
